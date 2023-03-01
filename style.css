@@ -1,0 +1,24 @@
+.canvasBox{
+    background-color: rgba(124, 160, 133, 0.717);
+    width: 70%;
+    
+}
+
+.box{
+    display: flex;
+    /* position: relative; */
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin: 1rem;
+    height: 100%;
+    color: gold;
+    flex-direction: column;
+}
+
+body{
+    background-color: rgb(19, 13, 13);
+}
+.speed{
+    margin-bottom: 3px;
+}
